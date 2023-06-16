@@ -1,0 +1,11 @@
+Datos PCA 2
+Solver: lbfgs & Penalty: l2, Exactitud: 0.51
+Solver: lbfgs & Penalty: None, Exactitud: 0.51
+Solver: liblinear & Penalty: l1, Exactitud: 0.51
+Solver: liblinear & Penalty: l2, Exactitud: 0.51
+Solver: newton-cg & Penalty: l2, Exactitud: 0.51
+Solver: newton-cg & Penalty: None, Exactitud: 0.51
+Solver: newton-cholesky & Penalty: l2, Exactitud: 0.51
+Solver: newton-cholesky & Penalty: None, Exactitud: 0.51
+Solver: sag & Penalty: l2, Exactitud: 0.51
+Solver: sag & Penalty: None, Exactitud: 0.51

@@ -1,0 +1,10 @@
+Solver: lbfgs & Penalty: l2, Exactitud: 0.53
+Solver: lbfgs & Penalty: None, Exactitud: 0.53
+Solver: liblinear & Penalty: l1, Exactitud: 0.53
+Solver: liblinear & Penalty: l2, Exactitud: 0.53
+Solver: newton-cg & Penalty: l2, Exactitud: 0.53
+Solver: newton-cg & Penalty: None, Exactitud: 0.53
+Solver: newton-cholesky & Penalty: l2, Exactitud: 0.53
+Solver: newton-cholesky & Penalty: None, Exactitud: 0.53
+Solver: sag & Penalty: l2, Exactitud: 0.53
+Solver: sag & Penalty: None, Exactitud: 0.53
